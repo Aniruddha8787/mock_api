@@ -11,18 +11,6 @@
       "name": "Gail Newbatt",
       "age": 53,
       "email": "gnewbatt1@un.org"
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
-    },
-    {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
     }
   ]
 }
