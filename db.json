@@ -33,17 +33,18 @@
   ],
   "users":[
     {
-      "id":1,
-      "name":"andy",
-      "email":"andy@gmail.com",
-      "password":"andy",
-      "image":"https://via.placeholder.com/150"
-    },{
-      "id": 2,
-      "name": "john",
-      "email": "john@gmail.com",
-      "password": "john",
-      "image": "https://via.placeholder.com/150"
+      "username": "bob",
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "email": "bob@gmail.com",
+      "password": "bob",
+      "id": 1
+    },
+    {
+      "username": "cat",
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "email": "cat@gmail.com",
+      "password": "cat",
+      "id": 2
     }
   ],
   "blogs":[
