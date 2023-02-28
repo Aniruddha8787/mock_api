@@ -38,6 +38,18 @@
       "contract": "Full Time",
       "position": "Junior Frontend Developer",
       "language": "Java"
+    },
+    {
+      "id": 3,
+      "company": "TCS",
+      "postedAt": "2021-09-09",
+      "city": "Pune",
+      "location": "Hinjewadi",
+      "role": "Backend",
+      "level": "Senior",
+      "contract": "Part Time",
+      "position": "Senior Frontend Developer",
+      "language": "JavaScript"
     }
   ]
 }
